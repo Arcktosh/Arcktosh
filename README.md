@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ben Henning "Arcktosh"</h1>
-<h3 align="center">A Software Developer at Trent Studios and an advocate for Free Open Source Software</h3>
+<h3 align="center">A Software Developer and an advocate for Free Open Source Software</h3>
 
 ## 💫 About Me:
 🔭 I’m currently working on a SaaS LMS<br>
