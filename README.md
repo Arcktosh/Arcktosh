@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Barend Henning
+# 👋 Hi, I'm Ben Henning
 
 I'm a tech-savvy Developer, Business Analyst, and Trainer with over 15 years of experience building impactful platforms and empowering individuals and organizations through technology.
 
